@@ -159,6 +159,7 @@ The form includes the following validation rules:
 - **Full Name**: Required, minimum 2 characters
 - **Email**: Required, must be a valid email format
 - **Role**: Required, must select a role
+  
 ## Acknowledgments
 
 - [Next.js](https://nextjs.org/) - The React Framework
